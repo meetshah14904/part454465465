@@ -15,6 +15,6 @@ const config = {
   port: 3000,
   jwtSecret: "YOUR_secret_key",
   mongoUri:
-    "mongodb+srv://pdol1:qwert12345@marketplace.4b3x2ke.mongodb.net/Marketplace?retryWrites=true&w=majority",
+    "mongodb+srv://meet:meet14@cluster0.yqvokoa.mongodb.net/meet",
 };
 export default config;
